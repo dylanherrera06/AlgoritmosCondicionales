@@ -1,3 +1,6 @@
+//Dylan Yeshua Herrera Verde
+//00603533
+//Ing. en TI
 Algoritmo CON05
 	//This one is similar to CON01 with the exception of determining whether a number is within a range
 	Definir Numero Como Real;

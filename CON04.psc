@@ -1,3 +1,6 @@
+//Dylan Yeshua Herrera Verde
+//00603533
+//Ing. en TI
 Algoritmo CON04
 	//This is similar to CON03 but with the few changes of the input having to be multiplied by 2
 	Definir Numero Como Entero;

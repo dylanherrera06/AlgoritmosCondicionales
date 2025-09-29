@@ -1,3 +1,6 @@
+//Dylan Yeshua Herrera Verde
+//00603533
+//Ing. en TI
 Algoritmo CON02
 	Definir N1,N2,N3 Como Reales;
 	

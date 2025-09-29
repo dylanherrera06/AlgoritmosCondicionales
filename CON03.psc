@@ -1,3 +1,6 @@
+//Dylan Yeshua Herrera Verde
+//00603533
+//Ing. en TI
 Algoritmo CON03
 	Definir Numero Como Entero;
 	
